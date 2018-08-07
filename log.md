@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 6, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued work on an app I started back in February that stores and displays all the fabrics in my collection. It's called MyFabricStashApp. I'm working with the .NET MVC5 framework, and Entity Framework 6 migrations. I'm working on the full list of requirements on my Github repo page. I Added the Purchases List page and added to nav. Added PurchasesListViewModel for the Purchases List, and a DropdownList helper that lists all Fabrics to choose from. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'd like to add the Fabric image swatch to the dropdownlist helper, but it is not going to be as simple as I thought. I found a couple tutorials on how to do it and I'll work on that tomorrow for the challenge. [ImagesInDropDownLists Tutorial](http://fairwaytech.com/2012/08/adding-images-select-lists-mvc3/)
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [MyFabricStashApp](https://github.com/khambley/MyFabricStashApp)
