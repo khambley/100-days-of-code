@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 3: August 8, 2018 Wednesday
+
+**Today's Progress**: FreeCodeCamp.org
+Today I took a little break and worked on FreeCodeCamp, I'm trying to learn Javascript better, it never really was my strong suit, but Michael Jordan was a not so good free throw shooter and he practiced and practiced every day sometimes shooting 300 free throws a day! Now he is the all time free throw shooter! So that's my strategy for getting to be a pro at Javascript. 
+
+**Thoughts:** I also had my final paper due in my Software Design class, so I did code as much as wanted to today. But, I get a 5-day break from classes, I'll spend that on coding.
+
+**Link to work:** [FreeCodeCamp](https://freeCodeCamp.org)
+
 ### Day 2: August 7, 2018 Tuesday
 
 **Today's Progress**: MyFabricStashApp(.NET MVC5, EF6, C#)
