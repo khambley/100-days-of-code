@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 13: August 18, 2018 Saturday
+
+**Today's Progress**: MyFabricStashApp
+Ok, so, I know that I've been MIA for awhile from the 100 days of code challenge, and I'm not going to make any excuses. I just didn't keep up with it. I'm trying not to look behind and move forward. I did get quite a bit accomplished today on MyFabricStashApp.  
+* **HTTP 403 Forbidden Error on Receipts/Index** -- For some odd reason, HTTP was adding on a trailing slash at the end of the URL http://localhost:53163/Receipts/ instead of, http://localhost:53163/Receipts so it was doing a 301 Redirect Permanent. I simply created a new route in RouteConfig.cs and changed the URL to Receipt instead and it works fine for all CRUD views. 
+* **Add ReceiptNumber to Model and Views** -- The controller now auto-generates the ReceiptNumber and stores it with the Receipt in the database. The Receipts List (Index) displays the Receipt Number in a column in the table.
+* **Add Sources DropDownList to Receipts/Create view** -- The Dropdown list on Receipts/Create View gets list of sources from db and when form is submitted, sends id value of source to POST.
+* **Source Name displays in Receipt List** -- The Source Name, i.e. "Joann" now displays in the Receipts List table, instead of the SourceID
+
+**Thoughts:** Got a LOT accomplished today. Feeling pretty good about it, but there is still a lot more todo. 
+
+**Link to work:** [MyFabricStashApp](https://github.com/khambley/MyFabricStashApp)
+
 ### Day 3: August 8, 2018 Wednesday
 
 **Today's Progress**: FreeCodeCamp.org
